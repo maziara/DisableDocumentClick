@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Disable DocumentClick
 // @namespace    https://github.com/maziara/DisableDocumentClick
-// @updateURL    https://github.com/maziara/DisableDocumentClick/master/DisableDocumentClick.js
+// @updateURL    https://raw.githubusercontent.com/maziara/DisableDocumentClick/master/DisableDocumentClick.js
 // @version      0.1
 // @description  Disabling the click popups that advertisers use on the whole document.
 // @author       Maziara
